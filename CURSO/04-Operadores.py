@@ -26,4 +26,9 @@ print(3 <= 4) # Menor o Igual que
 print(3 == 4) # Igual que
 print(3 != 4) # Dieferente de
 
-print('Hola' > '')
+print('Hola' > 'Python')
+print('Hola' < 'Python')
+print('Hola' >= 'Zola') # Ordenación Alfabeticca
+print('Hola' <= 'Python')
+print('Hola' == 'Hola')
+print('Hola' != 'Python')
