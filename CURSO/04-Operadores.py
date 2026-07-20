@@ -1,4 +1,5 @@
 # Operadores
+
 # Operadores Aritmeticos
 print(3 + 4) # Suma
 print(3 - 4) # Resta
@@ -32,3 +33,14 @@ print('Hola' >= 'Zola') # Ordenación Alfabeticca
 print('Hola' <= 'Python')
 print('Hola' == 'Hola')
 print('Hola' != 'Python')
+
+print('---------------------------------------------------------------')
+
+# Operadores Logicos
+print(3 > 4 and 'Hola' > 'Python')
+print(3 > 4 or 'Hola' > 'Python')
+print(3 < 4 and 'Hola' < 'Python')
+print(3 < 4 or ('Hola' < 'Python' and 4 == 4))
+print(not 'Hola' > 'Python')
+print(not 'Hola' < 'Python')
+print(not(3 < 4))
